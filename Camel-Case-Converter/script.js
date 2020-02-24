@@ -97,4 +97,9 @@ Check result for an input containing an acronym in acronym list
 Input: IAmABAHContractor
 Expected Result: I Am A BAH Contractor
 
+Test Case #7
+Check result for an input containing consecutive uppercase letters that is not in acronym list
+Input: IAmABAHAContractor
+Expected Result: I Am A B A H A Contractor
+
 */
