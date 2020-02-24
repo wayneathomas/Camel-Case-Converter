@@ -1,0 +1,38 @@
+body {
+    font-family: Montserrat, sans-serif;
+  }
+  
+  input {
+    border-radius: 5px;
+    font-family: Montserrat, sans-serif;
+    padding: 10px;
+    vertical-align: middle;
+  }
+  
+  button {
+    background-color: #087099;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 12px 15px;
+  }
+
+  button:hover {
+      cursor: pointer;
+  }
+  
+  p.style-paragraph {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  #errorMessage {
+    background-color: #ff0000;
+    border-radius: 5px;
+    color: #fff;
+    display: none;
+    font-size: 12px;
+    padding: 10px 25px;
+    text-align: center;
+    width: 150px;
+  }
